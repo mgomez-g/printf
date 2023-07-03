@@ -6,13 +6,13 @@
 #    By: manuelgomezgomez <manuelgomezgomez@stud    +#+  +:+       +#+         #
 #                                                 +#+#+#+#+#+   +#+            #
 #    Created: 2023/06/09 11:28:37 by manuelgomez       #+#    #+#              #
-#    Updated: 2023/07/03 11:04:36 by manuelgomez      ###   ########.fr        #
+#    Updated: 2023/07/03 11:05:11 by manuelgomez      ###   ########.fr        #
 #                                                                              #
 # **************************************************************************** #
 
 NAME = libftprintf.a
 
-CC = g
+CC = gcc
 
 RM = rm -f
 
